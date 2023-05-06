@@ -1,0 +1,14 @@
+BossDeath:
+  title: ''
+  subTitle: ''
+
+TopDamage:
+  - "&8================"
+  - ""
+  - "&e&l1☆ &f%firstPlayer% &7» &c%firstDamage%%"
+  - "&e&l2☆ &f%secondPlayer% &7» &c%secondDamage%%"
+  - "&e&l3☆ &f%thirdPlayer% &7» &c%thirdDamage%%"
+  - "&e&l4☆ &f%fourthPlayer% &7» &c%fourthDamage%%"
+  - "&e&l5☆ &f%fifthPlayer% &7» &c%fifthDamage%%"
+  - ""
+  - "&8================"

@@ -1,0 +1,7 @@
+name: BossTopKills
+version: 1.0
+main: net.imjoycepg.mc.BossTopKills
+author: ImJoycePG
+depend:
+  - Boss
+softdepend: [PlaceholderAPI]
